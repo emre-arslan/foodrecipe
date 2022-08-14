@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "e7uldhYMu+Z1uyY8MDbSFLdtUXyuN68g8AWsEqmrq41DSbrDiPcr8Wj5pfsa/lfHc08tGF/nwVxKGZ723gyfvQ==",
+  "success": true,
+  "projectFilePath": "D:\\MyProjects\\FoodRecipe\\EA.FoodRecipe.Common\\EA.FoodRecipe.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Emre Arslan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
