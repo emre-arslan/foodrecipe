@@ -3,7 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EA.FoodRecipe.Common", "EA.FoodRecipe.Common\EA.FoodRecipe.Common.csproj", "{41FC4A9D-53DC-48DF-8CB6-0985AA668DA1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EA.FoodRecipe.Common", "EA.FoodRecipe.Common\EA.FoodRecipe.Common.csproj", "{41FC4A9D-53DC-48DF-8CB6-0985AA668DA1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EA.FoodRecipe.DataAccess", "EA.FoodRecipe.DataAccess\EA.FoodRecipe.DataAccess.csproj", "{150B0707-CD14-47C1-91F3-2FF66FFA4FC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EA.FoodRecipe.Business", "EA.FoodRecipe.Business\EA.FoodRecipe.Business.csproj", "{6E04E517-870D-4281-B76E-55220AF23C82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EA.FoodRecipe.Dtos", "EA.FoodRecipe.Dtos\EA.FoodRecipe.Dtos.csproj", "{9EBFB5FC-BC1F-478B-B518-10BC137A5C40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EA.FoodRecipe.Entities", "EA.FoodRecipe.Entities\EA.FoodRecipe.Entities.csproj", "{5B652A5C-7628-4824-A7FB-B83372DB846E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EA.FoodRecipe.UI", "EA.FoodRecipe.UI\EA.FoodRecipe.UI.csproj", "{E3416CCB-E295-401C-8430-2A4A248FB4E8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +25,26 @@ Global
 		{41FC4A9D-53DC-48DF-8CB6-0985AA668DA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{41FC4A9D-53DC-48DF-8CB6-0985AA668DA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{41FC4A9D-53DC-48DF-8CB6-0985AA668DA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{150B0707-CD14-47C1-91F3-2FF66FFA4FC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{150B0707-CD14-47C1-91F3-2FF66FFA4FC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{150B0707-CD14-47C1-91F3-2FF66FFA4FC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{150B0707-CD14-47C1-91F3-2FF66FFA4FC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E04E517-870D-4281-B76E-55220AF23C82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E04E517-870D-4281-B76E-55220AF23C82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E04E517-870D-4281-B76E-55220AF23C82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E04E517-870D-4281-B76E-55220AF23C82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EBFB5FC-BC1F-478B-B518-10BC137A5C40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EBFB5FC-BC1F-478B-B518-10BC137A5C40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EBFB5FC-BC1F-478B-B518-10BC137A5C40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EBFB5FC-BC1F-478B-B518-10BC137A5C40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B652A5C-7628-4824-A7FB-B83372DB846E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B652A5C-7628-4824-A7FB-B83372DB846E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B652A5C-7628-4824-A7FB-B83372DB846E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B652A5C-7628-4824-A7FB-B83372DB846E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3416CCB-E295-401C-8430-2A4A248FB4E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3416CCB-E295-401C-8430-2A4A248FB4E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3416CCB-E295-401C-8430-2A4A248FB4E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3416CCB-E295-401C-8430-2A4A248FB4E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

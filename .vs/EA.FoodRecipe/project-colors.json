@@ -5,7 +5,32 @@
       "ProjectGuid": "41fc4a9d-53dc-48df-8cb6-0985aa668da1",
       "DisplayName": "EA.FoodRecipe.Common",
       "ColorIndex": 0
+    },
+    "150b0707-cd14-47c1-91f3-2ff66ffa4fc4": {
+      "ProjectGuid": "150b0707-cd14-47c1-91f3-2ff66ffa4fc4",
+      "DisplayName": "EA.FoodRecipe.DataAccess",
+      "ColorIndex": 1
+    },
+    "6e04e517-870d-4281-b76e-55220af23c82": {
+      "ProjectGuid": "6e04e517-870d-4281-b76e-55220af23c82",
+      "DisplayName": "EA.FoodRecipe.Business",
+      "ColorIndex": 2
+    },
+    "9ebfb5fc-bc1f-478b-b518-10bc137a5c40": {
+      "ProjectGuid": "9ebfb5fc-bc1f-478b-b518-10bc137a5c40",
+      "DisplayName": "EA.FoodRecipe.Dtos",
+      "ColorIndex": 3
+    },
+    "5b652a5c-7628-4824-a7fb-b83372db846e": {
+      "ProjectGuid": "5b652a5c-7628-4824-a7fb-b83372db846e",
+      "DisplayName": "EA.FoodRecipe.Entities",
+      "ColorIndex": 4
+    },
+    "e3416ccb-e295-401c-8430-2a4a248fb4e8": {
+      "ProjectGuid": "e3416ccb-e295-401c-8430-2a4a248fb4e8",
+      "DisplayName": "EA.FoodRecipe.UI",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 6
 }

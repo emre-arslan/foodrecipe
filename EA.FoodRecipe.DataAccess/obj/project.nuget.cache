@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9wrMfdpqmcZZUm2bghU9L5OoZbzmjMvchhdG3P9q6elfaDxDQCrCnzVE4j+iJMwKuQvf1kT1t1mcNL7pckf7nw==",
+  "success": true,
+  "projectFilePath": "D:\\MyProjects\\FoodRecipe\\EA.FoodRecipe.DataAccess\\EA.FoodRecipe.DataAccess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Emre Arslan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
